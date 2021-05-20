@@ -1,0 +1,13 @@
+calories
+protein
+fat
+sodium
+fiber
+carbo
+sugars
+potass
+vitamins
+rating
+mfr
+type
+shelf
