@@ -1,6 +1,7 @@
 
 ========================================================
 Description
+
 ========================================================
 
 Cette application réalise l'analyse des données issues de plusieurs céréals.
@@ -22,6 +23,7 @@ Voici sa structure:
 
 ========================================================
 Déploiement de l'application
+
 ========================================================
 
 Préparer l'environnement:
